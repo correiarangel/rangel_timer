@@ -1,6 +1,9 @@
 # rangel_timer
 
-A new Flutter project.
+Simple demo of native animations and River Package
+
+## Getting Rive
+- [Pub Dev Rive](https://pub.dev/packages/rive)
 
 ## Getting Started
 
